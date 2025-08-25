@@ -1,0 +1,11 @@
+my-shop/
+ ┣ package.json
+ ┣ vite.config.js
+ ┣ index.html
+ ┗ src/
+    ┣ main.jsx
+    ┣ App.jsx
+    ┣ data.js
+    ┣ components/
+       ┣ ProductList.jsx
+       ┣ Cart.jsx
